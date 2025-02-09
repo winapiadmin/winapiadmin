@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @winapiadmin
-- 👀 I’m interested in assembly language and C/C++
+- 👀 I’m interested in assembly language and C/C++ (at least)
 - 🌱 I’m currently learning multiple thing like making an operating system, write a program
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
